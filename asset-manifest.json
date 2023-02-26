@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aravind-website/static/css/main.71ddf565.css",
+    "main.js": "/aravind-website/static/js/main.da600be9.js",
+    "static/js/787.128fc6e9.chunk.js": "/aravind-website/static/js/787.128fc6e9.chunk.js",
+    "static/media/DSC_0436.JPG": "/aravind-website/static/media/DSC_0436.a660ff7409b3fea57f29.JPG",
+    "static/media/developer-img1.jpg": "/aravind-website/static/media/developer-img1.39455e23cc7281ee9a0d.jpg",
+    "index.html": "/aravind-website/index.html",
+    "main.71ddf565.css.map": "/aravind-website/static/css/main.71ddf565.css.map",
+    "main.da600be9.js.map": "/aravind-website/static/js/main.da600be9.js.map",
+    "787.128fc6e9.chunk.js.map": "/aravind-website/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ddf565.css",
+    "static/js/main.da600be9.js"
+  ]
+}
